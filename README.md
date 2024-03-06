@@ -11,8 +11,17 @@ Heuristic informed search algorithm: what is the traversal for an ambulance in a
 
 Python Version: 3.8+
 
-Execution:
-If you want to execute all test maps and heuristics then run the ASTAR-calls.sh script: bash ASTAR-calls.sh 
+## Execution:
+If you want to execute all test maps and heuristics then run the ASTAR-calls.sh script: 
+### Example: 
+```
+bash ASTAR-calls.sh 
+```
+A particular heuristic can be run with ASTARTraslados.py <pathmap.csv> <num-h> where the map such as locations01.csv 
+### Example: 
+```
+ASTARTraslados.py locations01.csv 1
+```
 bash 
 
 # Input:
