@@ -74,7 +74,7 @@ board the vehicle.
 
 Grid of nxm 
 
-###Example:
+### Example:
 ```
 N;1;1;1;1;1;
 1;C;P;1;X;X;
